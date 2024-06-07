@@ -10,6 +10,6 @@ aiofiles
 dnspython
 motor[srv]
 beautifulsoup4
-pyrofork==2.2.11
+pyrofork==2.3.24
 pyrofork
 ffmpeg
